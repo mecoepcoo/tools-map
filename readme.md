@@ -2,6 +2,7 @@
 - [通用工具](#通用工具)
 - [Node.js](#Node.js)
 - [前端通用](#前端通用)
+- [视图引擎](#视图引擎)
 
 
 ## 通用工具
@@ -61,3 +62,20 @@
 [http://photoswipe.com/](http://photoswipe.com/)
 
 简介：**js画廊**，支持图像的缩放，移动端触控移动、缩放。
+
+
+## 视图引擎
+### ejs
+[http://www.ejs.co/](http://www.ejs.co/)
+
+简介：前端模版引擎，省去拼接字符串的繁琐操作，引入即可使用。插值为`<%=  %>`，支持任意js语句。
+
+### handlebars
+[http://handlebarsjs.com/](http://handlebarsjs.com/)
+
+简介：前端模版引擎，引入即可使用，使用`{{ }}`插值模版的结构使代码更具可读性。
+
+### art-template
+[https://aui.github.io/art-template/zh-cn/index.html](https://aui.github.io/art-template/zh-cn/index.html)
+
+简介：轻量前端模版引擎，引入即可使用，同时支持`{{ }}`和`<%= %>`两种模版,与EJS一样，在`<%= %>`原始模版中支持任意js语句。
