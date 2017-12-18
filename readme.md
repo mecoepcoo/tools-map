@@ -78,4 +78,4 @@
 ### art-template
 [https://aui.github.io/art-template/zh-cn/index.html](https://aui.github.io/art-template/zh-cn/index.html)
 
-简介：轻量前端模版引擎，引入即可使用，同时支持`{{ }}`和`<%= %>`两种模版,与EJS一样，在`<%= %>`原始模版中支持任意js语句。
+简介：轻量前端模版引擎，浏览器模式下仅6KB(Gzip)，引入即可使用，同时支持`{{ }}`和`<%= %>`两种模版,与EJS一样，在`<%= %>`原始模版中支持任意js语句。
