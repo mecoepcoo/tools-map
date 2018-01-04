@@ -12,6 +12,12 @@
 简介：基于node的**RESTful文档生成工具**
 
 
+### Lodash
+[https://lodash.com/](https://lodash.com/)
+
+简介：js工具库，用健壮的代码封装了诸多对字符串、数组、对象等常见数据类型的处理函数，如随机数生成、对象深拷贝等。
+
+
 ## Node.js
 ### Express
 [http://www.expressjs.com.cn/](http://www.expressjs.com.cn/)
