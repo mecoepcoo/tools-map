@@ -55,6 +55,12 @@
 简介：node下的**JSON数据库**，支持Lodash，以JSON文件的形式存储数据，不需要额外配置数据服务器。
 
 
+### jimp
+[https://github.com/oliver-moran/jimp](https://github.com/oliver-moran/jimp)
+
+简介：node下的**图形处理库**,有缩放、裁剪、滤镜、饱和度、颜色选择等图形处理功能。
+
+
 ## 前端通用
 ### Swiper
 中文网：[http://www.swiper.com.cn/](http://www.swiper.com.cn/)
@@ -68,6 +74,12 @@
 [http://photoswipe.com/](http://photoswipe.com/)
 
 简介：**js画廊**，支持图像的缩放，移动端触控移动、缩放。
+
+
+### draggable
+[https://github.com/Shopify/draggable](https://github.com/Shopify/draggable)
+
+简介：**js拖拽库**，可实现拼图、2.5d图形拖拽等。
 
 
 ## 视图引擎
