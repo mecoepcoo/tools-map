@@ -60,6 +60,11 @@
 
 简介：node下的**图形处理库**,有缩放、裁剪、滤镜、饱和度、颜色选择等图形处理功能。
 
+### cheerio
+[https://cheerio.js.org/](https://cheerio.js.org/)
+
+简介：node下的html处理模块，可用作爬虫、页面抓取。
+
 
 ## 前端通用
 ### Swiper
@@ -80,6 +85,11 @@
 [https://github.com/Shopify/draggable](https://github.com/Shopify/draggable)
 
 简介：**js拖拽库**，可实现拼图、2.5d图形拖拽等。
+
+### axios
+[https://github.com/axios/axios](https://github.com/axios/axios)
+
+简介：好用的**http库**。
 
 
 ## 视图引擎
