@@ -3,6 +3,7 @@
 - [Node.js](#Node.js)
 - [前端通用](#前端通用)
 - [视图引擎](#视图引擎)
+- [视觉效果](#视觉效果)
 
 
 ## 通用工具
@@ -107,3 +108,9 @@
 [https://aui.github.io/art-template/zh-cn/index.html](https://aui.github.io/art-template/zh-cn/index.html)
 
 简介：轻量前端模版引擎，浏览器模式下仅6KB(Gzip)，引入即可使用，同时支持`{{ }}`和`<%= %>`两种模版,与EJS一样，在`<%= %>`原始模版中支持任意js语句。
+
+## 视觉效果
+### CountUp.js
+[https://github.com/inorganik/countUp.js](https://github.com/inorganik/countUp.js)
+
+简介：实现数字滚动效果，兼容所有浏览器。这个插件也有Vue，Ng，React，wordpress模块。
